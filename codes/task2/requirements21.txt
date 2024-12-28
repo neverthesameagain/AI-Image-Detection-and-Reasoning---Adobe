@@ -1,0 +1,15 @@
+git+https://github.com/huggingface/transformers.git
+git+https://github.com/huggingface/trl.git
+git+https://github.com/openai/CLIP.git
+datasets
+bitsandbytes
+peft
+qwen-vl-utils
+wandb
+accelerate
+pandas
+torch
+scikit-learn
+openpyxl
+clip
+pillow
